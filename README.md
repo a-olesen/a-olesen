@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there!
+
+My name is Ashley and I'm going to school for Graphic Info Technology! I like going to the gym and don't really have time for much else between that, my job, and school, haha. I don't have a lot of tech skills yet but I'm eager to learn and having a great time so far. :)
+
+I don't have any other accounts to share but maybe sometime! 😭
+
+<img src="https://myreadme.vercel.app/api/embed/a-olesen?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <!--
 **a-olesen/a-olesen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
